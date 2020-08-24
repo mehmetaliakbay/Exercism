@@ -1,0 +1,7 @@
+*.gradle
+gradle*
+**/build/
+*.exercism
+*build.gradle
+*.idea
+
